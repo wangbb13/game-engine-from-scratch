@@ -12,5 +12,5 @@
 
 **step1**：首先运行```> vcvars32```命令，准备编译和链接的环境（set up the required environment for compiling and linking）。
 
-**step2**：运行```> cl -l user32.lib helloengine_win.c```。
+**step2**：运行```> cl  user32.lib helloengine_win.c```。
 
