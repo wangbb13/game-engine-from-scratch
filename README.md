@@ -14,3 +14,11 @@
 
 **step2**：运行```> cl  user32.lib helloengine_win.c```。
 
+## Chapter 10
+
+> 内容：编译使用GPU绘图的程序
+
+#### 编译命令
+
+```>cl user32.lib ole32.lib d2d1.lib helloengine_d2d.cpp```
+
